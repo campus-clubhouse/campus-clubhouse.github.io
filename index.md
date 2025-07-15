@@ -32,9 +32,9 @@ We need a landing page and 4 mockups:
 ## GitHub Requirements
 
 - [ ] Use **GitHub Issues** and a **Project** called `"M1"` to manage development
-- [ ] Follow **IDMP** practices
+- [ ] Follow [**IDMP**](https://courses.ics.hawaii.edu/ics314ss25/morea/project-management/reading-guidelines-idpm.html) practices
 - [ ] All branches are named according to **IDPM guidelines**
-- [ ] Adhere to **GitHub hosting guidelines**
+- [ ] Adhere to [**GitHub hosting guidelines**](https://courses.ics.hawaii.edu/ics314ss25/morea/project-management/reading-guidelines-github-hosting.html)
 
 ---
 
