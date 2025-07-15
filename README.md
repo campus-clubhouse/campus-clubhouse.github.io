@@ -1,1 +1,1 @@
-# campus-clubhouse.github.io
+This repo contains the documentation for the BowFolios system. See [index.md](index.md) for the source, or go to [https://campus-clubhouse.github.io](https://campus-clubhouse.github.io).
