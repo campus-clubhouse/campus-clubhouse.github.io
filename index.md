@@ -20,7 +20,7 @@ We need a landing page and 4 mockups:
 ## Project Home Page *(GitHub Pages Link)*
 
 - [ ] A link to the [**GitHub organization**](https://github.com/campus-clubhouse) associated with this project and all of its repositories
-- [ ] A link to the [**Team Contract**](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?tab=t.0)
+- [ ] A link to the [**Team Contract**](https://github.com/campus-clubhouse/campus-clubhouse.github.io/blob/main/index.md)
 - [ ] A **Deployment** section containing a link to the deployed application on **Vercel**
 - [ ] **Up-to-date screenshots** showing the state of the project
 - [ ] A link to the **M1 Project Page**, showing completed issues  
