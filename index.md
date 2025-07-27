@@ -1,5 +1,5 @@
 # M1 Checklist
-## Link to [**Milestone 1 project**](https://github.com/orgs/campus-clubhouse/projects/2/views/1)
+## Click here to see Milestone 1 project [**Milestone 1 project**](https://github.com/orgs/campus-clubhouse/projects/2/views/1)
 
 **DUE: JULY 27**
 
@@ -43,3 +43,6 @@ We need a landing page and 4 mockups:
 
 - [ ] Fill out the **M1 Team Work Survey**
 - [ ] **Contribute to GitHub**
+
+## Future project updates
+- click here for Milestone 2 project [**Milestone 2 project**](https://github.com/orgs/campus-clubhouse/projects/4/views/1)
