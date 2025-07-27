@@ -10,10 +10,10 @@
 ## Mockups *(depends on final proposal)*
 We need a landing page and 4 mockups:
 - [ ] **Landing Page**
-- [ ] Page 1: Jiu Jitsu/Wrestling Club or Kickboxing *(Currently Indecisive)*
-- [ ] Page 2:
-- [ ] Page 3:
-- [ ] Page 4:
+- [ ] Page 1: User/browsing clubs page
+- [ ] Page 2: Admin page
+- [ ] Page 3: Create a club page
+- [ ] Page 4: Super admin home page
 
 ---
 
