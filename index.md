@@ -1,55 +1,83 @@
-## Table of Contents
+Welcome to the **Campus Clubhouse** developer documentation.
 
-* [Overview](#overview)
-* [Team Contract](#team-contract)
-* [Deployment](#deployment)
-* [Milestones](#milestones)
-* [Mockup Pages](#mockup-pages)
-* [Team](#team)
-* [Developer Guide](#developer-guide)
+UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. Campus Clubhouse solves this by providing a streamlined platform where students can explore, connect, and participate in campus life.
 
-## Overview
+## 🚀 Live Site
 
-UH Manoa has over 200 Registered Independent Organizations, plus many more that do not have this “official” status but are nonetheless active organizations. Unfortunately, there is no easy way for students to learn (a) what student clubs (both registered and unregistered) exist, what they do, and how to get further involved.
+[https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
 
-The Campus Clubhouse application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
+## 📚 Contents
 
-## Team Contract
+- [Overview](#overview)
+- [Team Contract](#team-contract)
+- [Deployment](#deployment)
+- [Milestones](#milestones)
+- [Mockup Pages](#mockup-pages)
+- [Team](#team)
+- [Developer Guide](#developer-guide)
 
-* **GitHub Organization:** [campus-clubhouse](https://github.com/campus-clubhouse)
-* **Team Contract:** [Team Contract](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+---
 
-## Deployment
+## 🧭 Overview
 
-The Campus Clubhouse application is deployed to vercel:
+Campus Clubhouse is a centralized platform for UH Mānoa students to discover, explore, and connect with campus clubs. Features include:
 
-**[Campus Clubhouse](https://campus-clubhouse.vercel.app/)**
+- Directory of student clubs
+- Club meeting times, descriptions, and contact info
+- Role-based login (User, Admin, Super)
+- Club creation and editing for Admins
 
-## Milestones
+## 🤝 Team Contract
+
+- **GitHub Organization:** [campus-clubhouse](https://github.com/campus-clubhouse)
+- **Team Contract:** [Google Doc](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+
+## 🛠️ Deployment
+
+Campus Clubhouse is deployed on [Vercel](https://vercel.com/).
+
+- **Production URL:** [https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
+
+## 📆 Milestones
 
 ### M1 - Project Foundation
-**M1 Project Page:** [M1 Milestone](https://github.com/orgs/campus-clubhouse/projects/1)
 
-This milestone focuses on establishing the basic project structure and core components.
+- Base layout and routing
+- Authentication
+- Core components (Navbar, Footer, Club Cards)
 
-### M2 - Future Development
-**M2 Project Page:** [M2 Milestone](https://github.com/orgs/campus-clubhouse/projects/4)
+### M2 - Feature Expansion
 
-This milestone focuses on enhancing features and producing production ready components.
+- Admin dashboards
+- Search/filter
+- Profile pages
 
-## Mockup Pages
+View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
+
+## 📄 Mockup Pages
+
+- Landing Page
+- Club Directory
+- Club Detail
+- User Profile
+- Admin Dashboard
+- Sign In / Sign Up
+
+## 👥 Team
+
+- [Richard Kim](https://richardkimm.github.io/)
+- Andy
+- Dominic
 
 
+## 🧑‍💻 Developer Guide
 
-## Team
+### 1. Clone and Setup
 
-
-Campus Clubhouse is designed, implemented, and maintained by:
-
-* [Richard Kim](https://richardkimm.github.io/)
-* [Andy](https://username.github.io/)
-* [Dominic](https://username.github.io/)
-
+```bash
+git clone https://github.com/campus-clubhouse/campus-clubhouse.git
+cd campus-clubhouse
+npm install
 
 ## Developer Guide
 
