@@ -1,4 +1,4 @@
-# Gamers Connect
+# Campus Clubhouse
 
 ## Table of Contents
 
