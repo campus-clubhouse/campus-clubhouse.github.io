@@ -1,4 +1,5 @@
 # M1 Checklist
+## Link to [**Milestone 1 project**](https://github.com/orgs/campus-clubhouse/projects/2/views/1)
 
 **DUE: JULY 27**
 
