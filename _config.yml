@@ -2,7 +2,7 @@ title: Campus Clubhouse
 description: Central hub for student run clubs at UH Manoa.
 google_analytics:
 show_downloads: false
-theme: jekyll-theme-leap-day
+theme: jekyll-theme-cayman
 github:
   is_project_page: true
   repository_url: https://github.com/campus-clubhouse/campus-clubhouse
