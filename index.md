@@ -1,9 +1,7 @@
-# Campus Clubhouse
-
 ## Table of Contents
 
 * [Overview](#overview)
-* [Links](#links)
+* [Team Contract](#team-contract)
 * [Deployment](#deployment)
 * [Milestones](#milestones)
 * [Mockup Pages](#mockup-pages)
@@ -16,7 +14,7 @@ UH Manoa has over 200 Registered Independent Organizations, plus many more that 
 
 The Campus Clubhouse application will provide a centralized directory for UH Manoa student clubs. UH Manoa students can login to browse a well organized directory of all current student clubs, with brief descriptions, meeting times and locations, URLs to their websites (if any), contact information for officers, and a few select photos.
 
-## Links
+## Team Contract
 
 * **GitHub Organization:** [campus-clubhouse](https://github.com/campus-clubhouse)
 * **Team Contract:** [Team Contract](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
