@@ -2,15 +2,27 @@ Welcome to the **Campus Clubhouse** project documentation.
 
 ## 📚 Contents
 
+- [Team Contract](#team-contract)
+- [Team](#team)
 - [Overview](#overview)
 - [Live Site](#live-site)
 - [Milestones](#milestones)
 - [Mockup Pages](#mockup-pages)
-- [Team Contract](#team-contract)
-- [Team](#team)
 - [Developer Guide](#developer-guide)
 
 ---
+
+
+## 👥 Team
+
+- [@richardkimm](https://richardkimm.github.io/)
+- Andy
+- Dominic
+
+
+## 🤝 Team Contract
+
+- [Check out our contract here](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
 
 ## 🧭 Overview
 
@@ -27,6 +39,7 @@ Features include:
 ## 🚀 Live Site
 
 [https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
+
 
 
 ## 📆 Milestones
@@ -48,38 +61,25 @@ View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/proj
 
 ## 📄 Mockup Pages
 
-The Landing Page is designed to be the first thing a user sees. 
+### The Landing Page is designed to be the first thing a user sees. 
 
 ![](images/landing.png)
 
-The Clubs Page harbors the different information regarding UH Manoa clubs.
+### The Clubs Page harbors the different information regarding UH Manoa clubs.
 
 ![](images/clubs.png)
 
-The Add Page is exclusively for admins wishing to post their clubs for everyone to see.
+### The Add Page is exclusively for admins wishing to post their clubs for everyone to see.
 
 ![](images/add.png)
 
-The Edit Page is designed for admins, and super admins who may wish to edit their clubs at any time.
+### The Edit Page is designed for admins, and super admins who may wish to edit their clubs at any time.
 
 ![](images/edit.png)
 
-The Profile Page is a fun way for users to enhance their experience.
+### The Profile Page is a fun way for users to enhance their experience.
 
 ![](images/profile.png)
-
-
-
-## 👥 Team
-
-- [Richard Kim](https://richardkimm.github.io/)
-- Andy
-- Dominic
-
-
-## 🤝 Team Contract
-
-- **Team Contract:** [Google Doc](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
 
 
 ## 🧑‍💻 Developer Guide
