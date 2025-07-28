@@ -1,28 +1,16 @@
-Welcome to the **Campus Clubhouse** project documentation.
+Welcome to the **Campus Clubhouse** project.
 
 ## 📚 Contents
 
-- [Team Contract](#team-contract)
-- [Team](#team)
 - [Overview](#overview)
 - [Live Site](#live-site)
 - [Milestones](#milestones)
 - [Mockup Pages](#mockup-pages)
 - [Developer Guide](#developer-guide)
+- [Team](#team)
+- [Team Contract](#team-contract)
 
 ---
-
-
-## 👥 Team
-
-- [@richardkimm](https://richardkimm.github.io/)
-- Andy
-- Dominic
-
-
-## 🤝 Team Contract
-
-- [Check out our contract here](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
 
 ## 🧭 Overview
 
@@ -397,3 +385,17 @@ Only logged in users can manipulate Contacts (but any registered user can manipu
 The config directory is intended to hold settings files. The repository contains one file: config/settings.development.json
 
 The .gitignore file prevents a file named settings.production.json from being committed to the repository. So, if you are deploying the application, you can put settings in a file named settings.production.json and it will not be committed.
+
+
+
+
+## 👥 Team
+
+- [@richardkimm](https://richardkimm.github.io/)
+- Andy
+- Dominic
+
+
+## 🤝 Team Contract
+
+- [Check out our contract here](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
