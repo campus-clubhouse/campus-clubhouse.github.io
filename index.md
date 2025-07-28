@@ -44,7 +44,7 @@ M2 - Feature Enhancements
 - Search/filter
 - Super Admin features
 
-View on GitHub: [📆 Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
+View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
 
 
 ## Mockup Pages
@@ -400,4 +400,4 @@ The .gitignore file prevents a file named settings.production.json from being co
 
 ## Team Contract
 
-- [🤝 Our Contract](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+- [Contract](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
