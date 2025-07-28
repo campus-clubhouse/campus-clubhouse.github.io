@@ -12,7 +12,7 @@ Welcome to the **Campus Clubhouse** project.
 
 ---
 
-## 🧭 Overview
+## Overview
 
 UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. 
 
@@ -24,13 +24,13 @@ Features include:
 - Club meeting times, descriptions, and contact info
 - Role-based login (User, Admin, Super)
 
-## 🚀 Live Site
+## Live Site
 
-[https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
+[🚀 https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
 
 
 
-## 📆 Milestones
+## Milestones
 
 M1 - Project Foundation
 
@@ -44,10 +44,10 @@ M2 - Feature Enhancements
 - Search/filter
 - Super Admin features
 
-View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
+View on GitHub: [📆 Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
 
 
-## 📄 Mockup Pages
+## Mockup Pages
 
 ### The Landing Page is designed to be the first thing a user sees. 
 
@@ -70,9 +70,9 @@ View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/proj
 ![](images/profile.png)
 
 
-## 🧑‍💻 Developer Guide
+## Developer Guide
 
-### Clone and Setup
+### 🧑‍💻 Clone and Setup
 
 ```bash
 git clone https://github.com/campus-clubhouse/campus-clubhouse.git
