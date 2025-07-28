@@ -389,13 +389,15 @@ The .gitignore file prevents a file named settings.production.json from being co
 
 
 
-## 👥 Team
+## Team
+
+👥 Check out the developers of Campus Clubhouse here:
 
 - [@richardkimm](https://richardkimm.github.io/)
 - [@andy3-git](https://andy3-git.github.io/)
 - [@deuzd](https://deuzd.github.io/)
 
 
-## 🤝 Team Contract
+## Team Contract
 
-- [Check out our contract here](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+- [🤝 Our Contract](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
