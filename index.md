@@ -1,18 +1,12 @@
-Welcome to the **Campus Clubhouse** developer documentation.
-
-UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. Campus Clubhouse solves this by providing a streamlined platform where students can explore, connect, and participate in campus life.
-
-## 🚀 Live Site
-
-[https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
+Welcome to the **Campus Clubhouse** project documentation.
 
 ## 📚 Contents
 
 - [Overview](#overview)
-- [Team Contract](#team-contract)
-- [Deployment](#deployment)
+- [Live Site](#live-site)
 - [Milestones](#milestones)
 - [Mockup Pages](#mockup-pages)
+- [Team Contract](#team-contract)
 - [Team](#team)
 - [Developer Guide](#developer-guide)
 
@@ -20,48 +14,61 @@ UH Mānoa has over 200 student clubs, both official and unofficial. However, the
 
 ## 🧭 Overview
 
-Campus Clubhouse is a centralized platform for UH Mānoa students to discover, explore, and connect with campus clubs. Features include:
+UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. 
+
+Campus Clubhouse solves this by providing a streamlined platform where students can explore, connect, and participate in campus life. 
+
+Features include:
 
 - Directory of student clubs
 - Club meeting times, descriptions, and contact info
 - Role-based login (User, Admin, Super)
-- Club creation and editing for Admins
 
-## 🤝 Team Contract
+## 🚀 Live Site
 
-- **GitHub Organization:** [campus-clubhouse](https://github.com/campus-clubhouse)
-- **Team Contract:** [Google Doc](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+[https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
 
-## 🛠️ Deployment
-
-Campus Clubhouse is deployed on [Vercel](https://vercel.com/).
-
-- **Production URL:** [https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
 
 ## 📆 Milestones
 
-### M1 - Project Foundation
+M1 - Project Foundation
 
-- Base layout and routing
-- Authentication
-- Core components (Navbar, Footer, Club Cards)
+- Layout and mockups
+- Connection to database
+- Core components (Navbar, Club Cards, Admin)
 
-### M2 - Feature Expansion
+M2 - Feature Enhancements
 
-- Admin dashboards
+- Admin dashboard
 - Search/filter
-- Profile pages
+- Super Admin features
 
 View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
 
+
 ## 📄 Mockup Pages
 
-- Landing Page
-- Club Directory
-- Club Detail
-- User Profile
-- Admin Dashboard
-- Sign In / Sign Up
+The Landing Page is designed to be the first thing a user sees. 
+
+![](images/landing.png)
+
+The Clubs Page harbors the different information regarding UH Manoa clubs.
+
+![](images/clubs.png)
+
+The Add Page is exclusively for admins wishing to post their clubs for everyone to see.
+
+![](images/add.png)
+
+The Edit Page is designed for admins, and super admins who may wish to edit their clubs at any time.
+
+![](images/edit.png)
+
+The Profile Page is a fun way for users to enhance their experience.
+
+![](images/profile.png)
+
+
 
 ## 👥 Team
 
@@ -70,9 +77,14 @@ View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/proj
 - Dominic
 
 
+## 🤝 Team Contract
+
+- **Team Contract:** [Google Doc](https://docs.google.com/document/d/1OPzpyjTgygSy5zcAOlu6pvUM5XsvgPCRtbN6FzowDhk/edit?usp=sharing)
+
+
 ## 🧑‍💻 Developer Guide
 
-### 1. Clone and Setup
+### Clone and Setup
 
 ```bash
 git clone https://github.com/campus-clubhouse/campus-clubhouse.git
