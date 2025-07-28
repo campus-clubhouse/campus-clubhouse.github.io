@@ -3,7 +3,7 @@ Welcome to the **Campus Clubhouse** project.
 ## 📚 Contents
 
 - [Overview](#overview)
-- [Live Site](#live-site)
+- [Deployment](#deployment)
 - [Milestones](#milestones)
 - [Mockup Pages](#mockup-pages)
 - [Developer Guide](#developer-guide)
@@ -24,7 +24,7 @@ Features include:
 - Club meeting times, descriptions, and contact info
 - Role-based login (User, Admin, Super)
 
-## Live Site
+## Deployment
 
 [🚀 https://campus-clubhouse.vercel.app/](https://campus-clubhouse.vercel.app/)
 
