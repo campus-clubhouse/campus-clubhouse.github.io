@@ -392,8 +392,8 @@ The .gitignore file prevents a file named settings.production.json from being co
 ## 👥 Team
 
 - [@richardkimm](https://richardkimm.github.io/)
-- Andy
-- Dominic
+- [@andy3-git](https://andy3-git.github.io/)
+- [@deuzd](https://deuzd.github.io/)
 
 
 ## 🤝 Team Contract
