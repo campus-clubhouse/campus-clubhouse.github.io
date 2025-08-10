@@ -37,6 +37,7 @@ M1 - Project Foundation
 - Layout and mockups
 - Connection to database
 - Core components (Navbar, Club Cards, Admin)
+View on Github: [Milestone 1 Project Board](https://github.com/orgs/campus-clubhouse/projects/2)
 
 M2 - Feature Enhancements
 
@@ -44,7 +45,14 @@ M2 - Feature Enhancements
 - Search/filter
 - Super Admin features
 
-View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/projects)
+View on GitHub: [Milestone 2 Project Board](https://github.com/orgs/campus-clubhouse/projects/4)
+
+M3 - Incorporating Real Data
+
+- Create pages for existing clubs at UH Manoa
+- Update Search/Filter feature to work with new added clubs
+
+View on Github: [Milestone 3 Project Board](https://github.com/orgs/campus-clubhouse/projects/5/views/1)
 
 
 ## Mockup Pages
