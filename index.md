@@ -14,9 +14,9 @@ Welcome to the **Campus Clubhouse** project.
 
 ## Overview
 
-UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. 
+The Problem: UH Mānoa has over 200 student clubs, both official and unofficial. However, there is no centralized and easy way for students to discover and engage with these organizations. 
 
-Campus Clubhouse solves this by providing a streamlined platform where students can explore, connect, and participate in campus life. 
+The Solution: Campus Clubhouse solves this by providing a streamlined platform where students can explore, connect, and participate in campus life. It aims to create a directory where one can find any club they might want to look into and find out any relevant information about those clubs.
 
 Features include:
 
