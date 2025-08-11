@@ -57,6 +57,10 @@ View on GitHub: [Milestone Boards](https://github.com/orgs/campus-clubhouse/proj
 
 ![](images/clubs.png)
 
+### You may also wish to see more information. By clicking the bottom right corner, you are redirected to learn more about that specific club.
+
+![](images/clubs1.png)
+
 ### The Add Page is exclusively for admins wishing to post their clubs for everyone to see.
 
 ![](images/add.png)
