@@ -70,7 +70,7 @@ View on Github: [Milestone 3 Project Board](https://github.com/orgs/campus-clubh
 
 ![](images/CC_8bit.png)
 
-### You may also wish to see more information. By clicking the bottom right corner, you are redirected to learn more about that specific club.
+### You may also wish to see more information. By clicking the visit site button, you are redirected to learn more about that specific club.
 
 ![](images/clubs1.png)
 
