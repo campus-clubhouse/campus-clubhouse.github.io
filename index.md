@@ -66,6 +66,10 @@ View on Github: [Milestone 3 Project Board](https://github.com/orgs/campus-clubh
 
 ![](images/clubs.png)
 
+## Each club page contains such as relevant information for events or who to contact
+
+![](images/CC_8bit.png)
+
 ### You may also wish to see more information. By clicking the bottom right corner, you are redirected to learn more about that specific club.
 
 ![](images/clubs1.png)
